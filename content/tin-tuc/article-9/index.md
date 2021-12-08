@@ -15,7 +15,7 @@ date = "2021-12-08"
   align = "right"
 
 [asset]
-  image = "anh9-xmas.jpg"
+  image = "anh9-xmas.jpeg"
 +++
 
 Trung tâm Anh Ngữ Đồng Diều xin chúc các bé và các vị Phụ Huynh một mùa Giáng Sinh An Lành.
