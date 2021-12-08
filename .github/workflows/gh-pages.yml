@@ -30,5 +30,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./public
           external_repository: DoLaPham/dongdieu
